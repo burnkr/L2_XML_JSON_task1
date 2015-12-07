@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <from>Kyiv</from>
+        <to>Donetsk</to>
+        <date>19.12.2013</date>
+        <departure>15:05</departure>
+    </train>
+    <train id="2">
+        <from>Lviv</from>
+        <to>Donetsk</to>
+        <date>19.12.2013</date>
+        <departure>19:05</departure>
+    </train>
+    <train id="3">
+        <from>Krivoy Rog</from>
+        <to>Kiev</to>
+        <date>01.12.2015</date>
+        <departure>21:52</departure>
+    </train>
+    <train id="4">
+        <from>Krivoy Rog</from>
+        <to>Lvov</to>
+        <date>02.12.2015</date>
+        <departure>16:36</departure>
+    </train>
+    <train id="5">
+        <from>Krivoy Rog</from>
+        <to>Kiev</to>
+        <date>01.12.2015</date>
+        <departure>21:52</departure>
+    </train>
+    <train id="6">
+        <from>Krivoy Rog</from>
+        <to>Lvov</to>
+        <date>02.12.2015</date>
+        <departure>16:36</departure>
+    </train>
+</trains>
